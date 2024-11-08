@@ -57,6 +57,7 @@ The following metrics were calculated for the dashboard:
 - **Casualties by Road Conditions**: Casualty distribution based on road surface conditions
 - **Casualties by Location**: Casualty distribution based on accident location
 - **Casualties by Light Conditions**: Casualty distribution based on light conditions
+  
 
 ![sqas](https://github.com/user-attachments/assets/23688b8c-8180-4d71-9b18-7b4947420ee4)
 
