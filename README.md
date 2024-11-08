@@ -1,4 +1,4 @@
-# Accident-Data-Analysis-ExcelDashboard
+# Accident-Data-Analysis-Excel Dashboard
 
 This project involves the analysis of road accidents data using Excel. The goal is to provide insights into accident severity, casualties, vehicle types, and road conditions through data cleaning, processing, analysis, and visualization.
 
